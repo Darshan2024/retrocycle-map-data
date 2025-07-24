@@ -1,8 +1,5 @@
-[
-  {
-    "name": "Test Café",
-    "address": "123 Main St, Denver, CO",
-    "latitude": 39.7392,
-    "longitude": -104.9903
-  }
-]
+{
+  "name": "Ullr Café",
+  "latitude": 39.53201,
+  "longitude": -106.045924
+}
